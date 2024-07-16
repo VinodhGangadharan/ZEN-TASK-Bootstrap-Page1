@@ -1,0 +1,163 @@
+.box-part1
+{
+    background-color: black;
+    color: white;
+    padding-bottom: 60px;
+    
+}
+
+ul
+{
+    padding-top: 0px;
+    padding-bottom: 60px;
+}
+
+.img-thumbnail
+{
+    height: 400px;
+    width: 300px;
+}
+
+.col-md
+{
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+.col-md-6
+{
+    padding-top :40px;
+    padding-bottom:40px;   
+    
+}
+
+.btn 
+{
+border-color: beige;
+}
+
+.box-social
+{
+    padding-top :40px;
+    padding-bottom:40px; 
+}
+
+.award1
+{
+     
+    /*border: 1px solid lightgray;
+    border-radius: 10px;  
+    text-align: left;*/
+
+    
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    text-align: left;
+    padding-top :20px;
+    padding-bottom:20px;
+    padding-right :20px;
+    padding-left:20px;
+    font-size: small;
+    height: 130px; /*test*/
+   
+    
+}
+    
+
+.box-part4
+{
+    
+    padding-top :50px;
+    padding-bottom:50px;
+    padding-right :50px;
+    padding-left:50px;
+}
+
+.col-md-3
+{
+   
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+}
+
+.box-image
+{
+    padding-left:200px;
+}
+
+.box-part3
+{
+    background-color: black;
+    color: white;
+    
+}
+
+h4
+{
+    padding-top :30px;
+    padding-bottom:30px;
+}
+
+
+.footer
+{
+    background-color: black;
+    color: white;
+    padding-top :30px;
+    padding-bottom:30px;
+    padding-right :30px;
+    padding-left:30px;
+    font-size: small;
+    height: 150px; /*test*/
+   
+  
+    
+   
+}
+
+
+
+ul
+{
+    padding-top :50px;
+    padding-bottom:50px;
+    padding-right :50px;
+    padding-left:50px;
+}
+
+.poetry
+{
+    padding-top :50px;
+}
+
+
+.col-md-4
+{
+   /* padding: 0px;*/
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+   
+ 
+}
+
+span
+{
+    color:grey;
+}
+
+span.line:after,
+span.line:before{
+    content:"\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0
+    \00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0
+    \00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0
+    \00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0
+    \00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0";
+    text-decoration:line-through;
+    color:grey;
+}
+
+
+a {text-decoration: none; }
+
